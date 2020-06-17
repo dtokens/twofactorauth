@@ -522,7 +522,7 @@ websites:
     img: tokensnet.png
     tfa:
       - totp
-    doc: https://www.tokens.net/media/blog/video/2fa.mp4
+    doc: https://www.tokens.net/blog/how-to-create-account/
 
   - name: Uphold
     url: https://uphold.com/
