@@ -517,6 +517,13 @@ websites:
       - u2f
     doc: https://help.stex.com/en/articles/3486981#individual-account-security-settings
 
+  - name: Tokens.net
+    url: https://tokens.net
+    img: tokensnet.png
+    tfa:
+      - totp
+    doc: https://www.tokens.net/media/blog/video/2fa.mp4
+
   - name: Uphold
     url: https://uphold.com/
     img: uphold.png
